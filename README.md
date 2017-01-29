@@ -22,4 +22,4 @@ Mobile project application based on React Native & Redux and Firebase realtime d
 
 
 ##3. Demo
-[Demo Employee App](https://gifyu.com/images/test664b1.gif)
+![Demo Employee App](https://gifyu.com/images/final71d92.gif)
