@@ -11,11 +11,11 @@ class App extends Component {
   componentWillMount() {
     //Firebase config
     const config = {
-    apiKey: 'AIzaSyBAG--LtvzAMSkfa5bCSNUABUOVE98wzVM',
-    authDomain: 'manager-99581.firebaseapp.com',
-    databaseURL: 'https://manager-99581.firebaseio.com',
-    storageBucket: 'manager-99581.appspot.com',
-    messagingSenderId: '105494442973'
+    apiKey: 'AIzaSyC2AzWi3MOpvou7zZjkvyWsFFvSmTq92BA',
+    authDomain: 'employee-manager-aa71e.firebaseapp.com',
+    databaseURL: 'https://employee-manager-aa71e.firebaseio.com',
+    storageBucket: 'employee-manager-aa71e.appspot.com/',
+    messagingSenderId: '325746970451'
     };
 
     firebase.initializeApp(config);
